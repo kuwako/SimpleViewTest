@@ -1,0 +1,3 @@
+# SimpleViewTest
+
+iOSアプリのsingleViewを使っていろいろテスト
